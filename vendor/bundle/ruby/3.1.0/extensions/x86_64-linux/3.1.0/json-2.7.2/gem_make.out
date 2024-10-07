@@ -1,0 +1,16 @@
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+/root/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-ieuwvo sitelibdir\=./.gem.20241007-4206-ieuwvo clean
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-ieuwvo sitelibdir\=./.gem.20241007-4206-ieuwvo
+make: No se hace nada para 'all'.
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-ieuwvo sitelibdir\=./.gem.20241007-4206-ieuwvo install
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-ieuwvo sitelibdir\=./.gem.20241007-4206-ieuwvo clean

@@ -1,0 +1,18 @@
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+/root/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-qxwfui sitelibdir\=./.gem.20241007-4206-qxwfui clean
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-qxwfui sitelibdir\=./.gem.20241007-4206-qxwfui
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-qxwfui sitelibdir\=./.gem.20241007-4206-qxwfui install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20241007-4206-qxwfui
+
+current directory: /home/devilman/Escritorio/API/task_manager/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241007-4206-qxwfui sitelibdir\=./.gem.20241007-4206-qxwfui clean
